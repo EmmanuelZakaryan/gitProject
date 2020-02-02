@@ -1,3 +1,3 @@
 # new line in the code
 
-print("Main version")
+print("Forth version")
