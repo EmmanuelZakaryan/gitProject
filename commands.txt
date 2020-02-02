@@ -1,0 +1,18 @@
+To create git repo
+
+1. git init
+2. Go to github.com, create new repo
+3. git remote add origin https://github.com/username/new_repo
+4. git push -u origin master
+
+
+1. to switch branch
+
+		git checkout branch
+
+2. to create new branch and push changes
+
+		git checkout -b  <branch name>
+		git add .
+		git commit -m " message "
+		git push origin <branch name>
