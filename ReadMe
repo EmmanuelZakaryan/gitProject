@@ -1,0 +1,9 @@
+Open command line
+
+git checkout -b  <branch name>
+
+git add .
+
+git commit -m " message "
+
+git push origin <branch name>
